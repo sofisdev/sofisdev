@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there developers and recruiters 👋
 
 - 🔭 I’m currently working on a 9 week Full Stack Web Development Bootcamp at Ironchack Remote
 - 👯 I’m looking to collaborate on great projects!
