@@ -1,7 +1,7 @@
 ## Hi there developers and recruiters 👋
 
 ### Who doesn't love a good puzzle? That's how I feel about coding!
-I'm a 👩‍💻 developer and a :construction_worker: building architect, specialized in Web Development, BIM Management and committed to ambitious projects with new challenges.
+I'm a 👩‍💻 Fullstack developer and a :construction_worker: building architect, specialized in Web Development, BIM Management and committed to ambitious projects with new challenges.
 
 I am a better developer thanks to my career path in construction architecture, bringing into my code creativity to design and structure to problem solving.
 
