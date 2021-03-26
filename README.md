@@ -10,5 +10,5 @@ I am a better developer thanks to my career path in construction architecture, b
 - 👯 I’m looking to collaborate on great projects!
 - 💬 Ask me about Web Development, Building Architecture, and BIM Methodologies.
 - 📫 How to reach me: [Here's my LinkedIn](https://www.linkedin.com/in/sofiasanchezurb/)
-- ⚡ Fun fact: I am a freak of languages! (not only for coding) I speak spanish, english, french, german and italian
+- ⚡ Fun fact: I am a freak of languages! (not only for coding) I speak **Spanish, English, French, German and Italian**
 
